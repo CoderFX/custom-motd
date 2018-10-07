@@ -32,7 +32,7 @@ settings=(
 )
 
 # Accuweather location codes: https://github.com/SixBytesUnder/custom-motd/blob/master/accuweather_location_codes.txt
-weatherCode="EUR|UK|UK001|LONDON|"
+weatherCode="EUR|LT|LH054|VILNIUS|"
 
 # Colour reference
 #    Color     Value
